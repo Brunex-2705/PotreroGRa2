@@ -1,0 +1,17 @@
+/*Aprendiendo CSS*/
+
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: #111176;
+}
+
+h2 {
+    color: #4d0690;
+}
+
+p {
+    color: brown;
+}
