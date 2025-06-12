@@ -1,0 +1,30 @@
+/*Aprendiendo CSS*/
+
+body {
+    background-color:rgb(246, 246, 189);
+}
+
+h1 {
+    color: #111176;
+    font-family: Verdana, sans-serif;
+}
+
+h2 {
+    color: #4d0690;
+    font-family:'Segoe UI', sans-serif;
+}
+
+p {
+    font-family: Tahoma, sans-serif;
+    color: rgb(88, 58, 3);
+}
+
+a {
+    font-family: Geneva, sans-serif;
+    color: rgb(88, 26, 26);
+}
+
+ul, ol {
+    color: rgb(59, 59, 59);
+    font-family: Arial, sans-serif;
+}
